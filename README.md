@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently Pursuing B.Tech in Computer Science and Engineering . 
+I'm a Computer Science and Engineering undergraduate , graduating in 2028 who enjoys building projects, exploring how systems work, and turning ideas into functional applications. 
+I’m passionate about software development, learning modern web dev frameworks, and strengthening my core computer science fundamentals. 
+I believe consistent learning, hands-on practice, and curiosity are the keys to becoming a better developer. 🚀 
 
 
 # 🌐 Socials:
